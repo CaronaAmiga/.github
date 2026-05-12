@@ -1,12 +1,12 @@
 # 🚗 Carona Amiga Universitária
 
-## 📚 Descrição do Projeto
-O sistema **Carona Amiga Universitária** tem como objetivo facilitar a divisão de custos de deslocamento entre estudantes universitários, permitindo que alunos ofereçam e reservem vagas em caronas de forma simples e organizada.
+## 📖 Sobre a Empresa
 
-O projeto trabalha com dois perfis principais:
+A **Carona Amiga Universitária** é uma iniciativa voltada para facilitar o deslocamento de estudantes universitários por meio do compartilhamento de viagens entre alunos.
 
-- **Motorista** → responsável por oferecer caronas.
-- **Passageiro** → responsável por buscar e reservar vagas.
+Nosso objetivo é promover uma alternativa prática, econômica e colaborativa para o transporte acadêmico, incentivando a integração entre estudantes e reduzindo os custos individuais de locomoção.
+
+A empresa atua conectando motoristas e passageiros de maneira simples e segura, permitindo que estudantes compartilhem trajetos semelhantes dentro do ambiente universitário.
 
 ---
 
@@ -16,60 +16,70 @@ O projeto trabalha com dois perfis principais:
 
 ---
 
-# 🎯 Objetivo
-Desenvolver uma aplicação capaz de:
+# 🎯 Missão
 
-- Cadastrar caronas disponíveis;
-- Permitir busca de caronas por destino;
-- Controlar vagas disponíveis em cada veículo;
-- Registrar histórico de utilização dos usuários.
+Facilitar o acesso ao transporte universitário por meio de um sistema colaborativo de caronas, promovendo economia, praticidade e integração entre estudantes.
 
 ---
 
-# 🧩 Funcionalidades
+# 👁️ Visão
 
-## ✅ Oferta de Carona
-O motorista poderá cadastrar uma nova carona informando:
-
-- Origem;
-- Destino;
-- Horário;
-- Quantidade de vagas disponíveis.
+Ser referência em mobilidade universitária colaborativa, oferecendo soluções acessíveis e eficientes para deslocamentos acadêmicos.
 
 ---
 
-## 🔍 Busca de Caronas
-Os passageiros poderão buscar caronas disponíveis utilizando o destino como filtro.
+# 💡 Valores
+
+- Colaboração
+- Segurança
+- Sustentabilidade
+- Economia Compartilhada
+- Inovação
+- Responsabilidade Social
 
 ---
 
-## 🎫 Reserva de Vaga
-O passageiro poderá reservar uma vaga em uma carona disponível.
+# 👥 Público-Alvo
 
-### Regras:
-- A quantidade de vagas será decrementada automaticamente;
-- Não será possível reservar vagas quando o limite for atingido.
+A Carona Amiga Universitária é destinada a:
 
----
-
-## 📜 Histórico de Caronas
-Cada usuário poderá visualizar:
-
-- Caronas oferecidas;
-- Caronas reservadas;
-- Histórico completo de deslocamentos.
+- Estudantes universitários;
+- Motoristas universitários;
+- Instituições de ensino;
+- Comunidades acadêmicas.
 
 ---
 
-# 🧠 Lógica Central do Sistema
+# 🚘 Como Funciona
 
-Uma **Carona** possui:
+A plataforma permite que alunos:
 
-- Motorista responsável;
-- Lista de passageiros;
-- Número máximo de passageiros definido pela capacidade do veículo.
-
-### Regra Principal
-O sistema deve impedir reservas acima da capacidade do veículo.
+- Ofereçam caronas para colegas;
+- Encontrem viagens disponíveis;
+- Compartilhem custos de deslocamento;
+- Organizem rotas universitárias de forma prática.
 
 ---
+
+# 🌱 Impacto Social e Ambiental
+
+A Carona Amiga Universitária busca contribuir para:
+
+- Redução do trânsito próximo às universidades;
+- Diminuição da emissão de poluentes;
+- Economia no transporte estudantil;
+- Maior interação entre alunos.
+
+---
+
+# 📞 Contato
+
+**Carona Amiga Universitária**  
+📧 contato@caronaamiga.com  
+📍 Campos dos Goytacazes - RJ  
+
+---
+
+# 📄 Licença
+
+Documento institucional desenvolvido para fins acadêmicos.
